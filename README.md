@@ -18,5 +18,5 @@ A simple interface has been bulit using HTML, CSS and Javascript. It allows the 
 The app has been deployed on Heroku. Heroku lets you deploy a Flask app online for free. This is a fantastic option to test dev environments, to make SEO tests in Google Search Console or to make a python a public app to showcase your work without paying for hosting and for a domain name.
 
 # Web Hosting
-The app can be tested at the following link:
+The app is hosted at the following link:
 https://flask-bhpp.herokuapp.com/
